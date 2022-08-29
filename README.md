@@ -2,7 +2,7 @@
 
 
 - ♟  Desenvolvedor front-end e back-end 
-- 🎨 Trabalho com design gráfico 
+- 🎨 Designer gráfico 
 - 🎮 Estudando C# para Unity
 - 🎸 fã de Avenged Sevenfold! 
 
