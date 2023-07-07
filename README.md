@@ -1,10 +1,8 @@
 ### Salve! Sou o Carlos.👋
 
 
-- ♟  Desenvolvedor front-end e back-end 
-- 🎨 Designer gráfico 
-- 🎮 Estudando C# para Unity
-- 🎸 fã de Avenged Sevenfold! 
+- Cursando Data Science
+- Estudando Java para desenvolvimento mobile
 
 
 <div align="center">
