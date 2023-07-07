@@ -38,6 +38,9 @@
   <a href="https://instagram.com/eh_u_carlitos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kjCYQ4HB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:carlosmagal.develoeper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "www.linkedin.com/in/carlos-magal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
+
    
  
 ![Snake animation](https://github.com/CarlosDevH/CarlosDevH/blob/output/github-contribution-grid-snake.svg)
