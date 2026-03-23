@@ -2,7 +2,7 @@
 
 
 - Cursando Data Science
-- Estudando Java para desenvolvimento mobile
+- Analista de Dados!
 
 
 <div align="center">
